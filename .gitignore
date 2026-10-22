@@ -1,0 +1,8 @@
+wp-config.php
+wp-config-ddev.php
+.env
+.env.*
+*.sql
+*.sql.gz
+.ddev/db_snapshots/
+wp-content/cache/
